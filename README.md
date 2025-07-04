@@ -60,10 +60,12 @@ streamlit run app.py
 
 ## Once the app launches, open your browser and go to:
 http://localhost:8501
-Sample Output:
+
+## Sample Output:
 
 ![select_movie](https://github.com/user-attachments/assets/843c0a73-2e93-4715-834f-3ba3ea60153c)
- Recommended Results:
+ 
+## Recommended Results:
 
  ![recommendations](https://github.com/user-attachments/assets/94f62f2a-44e5-4465-add6-d00cc4e5e8de)
 
